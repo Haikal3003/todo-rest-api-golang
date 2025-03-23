@@ -1,6 +1,6 @@
 module todo-rest-api
 
-go 1.24.0
+go 1.21.0
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect
