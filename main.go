@@ -11,5 +11,5 @@ func main() {
 
 	routes.TodoRoutes(router)
 
-	router.Run("localhost:9090")
+	router.Run(":8000")
 }
